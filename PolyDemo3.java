@@ -7,6 +7,7 @@ public class PolyDemo3
 
 	public static void main(String[] args) 
 	{
+		System.out.println("commit");
 		PolyDemo3 p1=new PolyDemo3();
 		A a1=new A();
 		//p1.funA(A a1);
